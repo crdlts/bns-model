@@ -1,2 +1,2 @@
-# bns_model
+# bns-model
 model for predicting stock price spikes
